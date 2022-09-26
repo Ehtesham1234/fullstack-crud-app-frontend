@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fullstack-crud-app-frontend/static/css/main.c4836fd8.css",
+    "main.js": "/fullstack-crud-app-frontend/static/js/main.a74b18d4.js",
+    "static/js/787.76dd2100.chunk.js": "/fullstack-crud-app-frontend/static/js/787.76dd2100.chunk.js",
+    "index.html": "/fullstack-crud-app-frontend/index.html",
+    "main.c4836fd8.css.map": "/fullstack-crud-app-frontend/static/css/main.c4836fd8.css.map",
+    "main.a74b18d4.js.map": "/fullstack-crud-app-frontend/static/js/main.a74b18d4.js.map",
+    "787.76dd2100.chunk.js.map": "/fullstack-crud-app-frontend/static/js/787.76dd2100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4836fd8.css",
+    "static/js/main.a74b18d4.js"
+  ]
+}
